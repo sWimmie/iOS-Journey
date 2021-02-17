@@ -1,0 +1,21 @@
+[{
+    "brand": "TESLA",
+    "model": "Model S",
+    "year": 2021,
+    "topspeed": 322,
+    "mileage": 628,
+    "accelaration": "2,1",
+    "horsepower": 1020,
+    "picture": "Tesla-ModelS.png"
+  },
+{
+    "brand": "POLESTAR",
+    "model": "2",
+    "year": 2021,
+    "topspeed": 205,
+    "mileage": 470,
+    "accelaration": "4,7",
+    "horsepower": 408,
+    "picture": "Polestar2.png"
+  }
+]
